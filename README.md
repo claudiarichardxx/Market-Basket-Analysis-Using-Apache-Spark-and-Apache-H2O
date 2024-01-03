@@ -12,9 +12,10 @@ Personalized Bundles: Elevate customer experiences by crafting personalized prod
 Dataset Insight: The Instacart dataset forms the foundation of our project, providing a rich history of customer orders and diverse features for thorough analysis.
 
 # Getting Started
-# Embark on your Data Analytics journey:
-
 Clone the Repository: git clone claudiarichardxx/Market-Basket-Analysis-Using-Apache-Spark-and-Apache-H2O
+
 Install Dependencies: Ensure Apache Spark, JAVA and H2O are set up.
+
 Dataset Inclusion: Download the Instacart dataset from Kaggle and place it in a data directory and import them.
+
 Run the Project: Execute the main script to experience the seamless blend of analytics and scalability.
